@@ -22,8 +22,10 @@ Construction360 solves this by delivering a centralized data pipeline and report
   -Material Effeciency Tracker
   -Location Heat Map
   -Labour Productivity and Progress report
-7. Schedule daily refreshes with Pipeline in Fabric
-   
+6. Schedule daily refreshes with Pipeline in Fabric
+
+![Architecture Diagram] (./Screenshot 2025-07-10 145122.png)
+
 ## Tools and Stack
 1. Microsoft Dataflow Gen2 for ingestion
 2. Programming Language - Python (Pyspark)
