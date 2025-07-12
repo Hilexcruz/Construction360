@@ -40,7 +40,7 @@ It enables construction managers to monitor past experiences:
 ## Data Sources
 1. Excel
 2. Paper Record (PNG)
-3. Time tracking logs
+3. Time tracking logs (CSV)
 4. Site Photos
    
 ## Sample Metrics Produced
