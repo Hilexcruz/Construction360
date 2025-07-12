@@ -45,3 +45,16 @@ It enables construction managers to monitor past experiences:
    
 ## Sample Metrics Produced
    
+## Challenges Faced
+
+- Integrating data from historical records (e.g., scanned PDFs and incomplete Excel sheets)  
+- Normalizing material and labor data from different projects with inconsistent units  
+- Building a consistent time model for comparing planned vs actual project timelines  
+- Limited labeled data for predictive modeling (delay/cost forecasting)  
+
+
+## Conclusion
+
+Construction360 demonstrates how Microsoft Fabric can be used to solve real-world infrastructure and project visibility problems in the construction sector.  
+By automating data ingestion, transformation, and reporting, this solution empowers construction managers to make faster, data-driven decisions and better manage timelines, costs, and labor efficiency.  
+Future versions of this project may include predictive analytics and geospatial site progress tracking.
