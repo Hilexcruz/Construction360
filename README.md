@@ -1,4 +1,4 @@
-# Construction360
+<img width="1359" height="197" alt="image" src="https://github.com/user-attachments/assets/60e6788c-1b88-4e80-a22a-0b952bcf39e8" />
 
 ## Introduction
 A modern data engineering for a Building construction shwowing a complete data pipeline and reporting solution for a mid-sized construction company using Microsoft Fabric.
