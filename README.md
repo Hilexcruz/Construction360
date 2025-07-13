@@ -56,6 +56,7 @@ It enables construction managers to monitor past experiences:
 
 ### Actual Cost Analysis
 ![Actual Cost Analysis](assets/images/Actual_Cost_Analysis.png)
+<img width="928" height="540" alt="image" src="https://github.com/user-attachments/assets/6f5ee9ed-f0a3-4c14-8fc6-7786e252d356" />
 
    
 ## Challenges Faced
