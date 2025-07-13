@@ -53,18 +53,15 @@ Construction360 addresses these challenges by integrating data from operational 
 ![Project Summary](assets/images/Project_Summary.png)
 <img width="923" height="528" alt="image" src="https://github.com/user-attachments/assets/4724dc5b-d1c1-406b-a3d3-4ce24e6eddd2" />
 
+- 100 Projects Analyzed  
+- ₦252M Budgeted vs ₦442M Actual Spend  
+- Locations Covered: Lagos, Abuja, Ondo  
+- Delay Rate: 0.75% of projects exceeded schedule
 
 ### Actual Cost Analysis
 ![Actual Cost Analysis](assets/images/Actual_Cost_Analysis.png)
 <img width="928" height="540" alt="image" src="https://github.com/user-attachments/assets/6f5ee9ed-f0a3-4c14-8fc6-7786e252d356" />
-  -100 Projects Analyzed
 
-  -₦252M Budgeted vs ₦442M Actual Spend
-
-  -Locations Covered: Lagos, Abuja, Ondo
-
-  -Delay Rate: 0.75% of projects exceeded schedule
-   
 ## Challenges Faced
 
 - Integrating data from historical records (e.g., scanned PDFs and incomplete Excel sheets)  
