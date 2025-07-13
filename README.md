@@ -1,7 +1,7 @@
 <img width="1359" height="197" alt="image" src="https://github.com/user-attachments/assets/60e6788c-1b88-4e80-a22a-0b952bcf39e8" />
 
 ## Introduction
-A modern data engineering for a Building construction shwowing a complete data pipeline and reporting solution for a mid-sized construction company using Microsoft Fabric.
+Construction360 is a modern data engineering solution designed for the building and infrastructure sector, providing a unified analytics and reporting pipeline tailored to the needs of small-to-mid-sized construction firms. Built on Microsoft Fabric, it empowers stakeholders to consolidate project data from diverse sources into actionable insights.
 
 ## Business Use Case
 Construction firms often manage multiple projects across different locations, structure types, and teams — leading to data fragmentation and limited visibility into execution trends. Common challenges include missed deadlines, budget overruns, material inefficiencies, and workforce management issues.
@@ -57,7 +57,13 @@ Construction360 addresses these challenges by integrating data from operational 
 ### Actual Cost Analysis
 ![Actual Cost Analysis](assets/images/Actual_Cost_Analysis.png)
 <img width="928" height="540" alt="image" src="https://github.com/user-attachments/assets/6f5ee9ed-f0a3-4c14-8fc6-7786e252d356" />
+  -100 Projects Analyzed
 
+  -₦252M Budgeted vs ₦442M Actual Spend
+
+  -Locations Covered: Lagos, Abuja, Ondo
+
+  -Delay Rate: 0.75% of projects exceeded schedule
    
 ## Challenges Faced
 
