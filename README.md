@@ -31,6 +31,7 @@ It enables construction managers to monitor past experiences:
 
 ## Data Model
 
+<img width="875" height="484" alt="image" src="https://github.com/user-attachments/assets/25c5bce1-ada1-478a-863b-e4caae3b194c" />
 
 
 ## Tools and Stack
