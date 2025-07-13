@@ -48,6 +48,13 @@ It enables construction managers to monitor past experiences:
 4. Site Photos
    
 ## Sample Metrics Produced
+
+### Project Summary
+![Project Summary](assets/images/Project_Summary.png)
+
+### Actual Cost Analysis
+![Actual Cost Analysis](assets/images/Actual_Cost_Analysis.png)
+
    
 ## Challenges Faced
 
