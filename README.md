@@ -4,15 +4,14 @@
 A modern data engineering for a Building construction shwowing a complete data pipeline and reporting solution for a mid-sized construction company using Microsoft Fabric.
 
 ## Business Use Case
-Construction360 was built to address the pressing need for unified, real-time analytics in Nigeria’s small-to-mid-sized construction companies. These firms often manage multiple projects with varying structures (e.g., bungalows, flats, modern estates) across cities like Lagos, Ondo, and Abuja, but lack visibility into project delays, budget overruns, material waste, and labor inefficiencies.
+Construction firms often manage multiple projects across different locations, structure types, and teams — leading to data fragmentation and limited visibility into execution trends. Common challenges include missed deadlines, budget overruns, material inefficiencies, and workforce management issues.
 
-Construction360 solves this by delivering a centralized data pipeline and reporting solution using Microsoft Fabric.  
-It enables construction managers to monitor past experiences:
+Construction360 addresses these challenges by integrating data from operational records, time logs, and procurement documents into a centralized reporting system. Through its Power BI dashboards and Microsoft Fabric-powered pipeline, it enables construction managers to:
 
-- Percentage of delayed projects compared to the plan  
-- Material usage inefficiencies and overuse  
-- Labor productivity across time and tasks  
-- Cost variance between budgeted and actual values
+- Identify project delays and delivery patterns
+- Track material usage to uncover inefficiencies and waste
+- Evaluate labor output across sites, tasks, and timelines
+- Compare budgeted vs actual costs across locations and structure types
 
 
 ## Architecture
