@@ -51,7 +51,8 @@ It enables construction managers to monitor past experiences:
 
 ### Project Summary
 ![Project Summary](assets/images/Project_Summary.png)
-Project_Summary.png
+<img width="923" height="528" alt="image" src="https://github.com/user-attachments/assets/4724dc5b-d1c1-406b-a3d3-4ce24e6eddd2" />
+
 
 ### Actual Cost Analysis
 ![Actual Cost Analysis](assets/images/Actual_Cost_Analysis.png)
