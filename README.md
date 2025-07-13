@@ -29,6 +29,10 @@ It enables construction managers to monitor past experiences:
     - Labour Productivity and Progress Report  
 6. Schedule daily refreshes with Pipeline in Fabric
 
+## Data Model
+
+
+
 ## Tools and Stack
 1. Microsoft Dataflow Gen2 for ingestion
 2. Programming Language - Python (Pyspark)
