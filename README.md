@@ -70,6 +70,12 @@ It enables construction managers to monitor past experiences:
 
 ## Conclusion
 
-Construction360 demonstrates how Microsoft Fabric can be used to solve real-world infrastructure and project visibility problems in the construction sector.  
-By automating data ingestion, transformation, and reporting, this solution empowers construction managers to make faster, data-driven decisions and better manage timelines, costs, and labor efficiency.  
-Future versions of this project may include predictive analytics and geospatial site progress tracking.
+This analysis presents key insights from the evaluation of capital projects captured in the construction 360 dataset, comparing planned and actual execution metrics across various dimensions.
+
+A total of ﻿100﻿  projects were analyzed, with a combined budgeted cost of ₦﻿252290885﻿ and an actual spend of ₦﻿442609073﻿. The overall cost variance stands at ₦﻿190318188﻿, indicating whether the portfolio is over or under budget. On average, each project deviated by ﻿1.903.181,88﻿, with ﻿0,75﻿% of all projects exceeding their initial budgets. The project with the highest overrun is ﻿Duplex - Lagos Project 65﻿ , exceeding its budget by ₦﻿11570511﻿.
+
+Geographically, ﻿Lagos﻿ accounts for the highest number of projects with a total actual spend of ₦﻿156168123﻿, suggesting a regional concentration of capital investments. In contrast, ﻿Abuja﻿ had fewer projects.
+
+In terms of efficiency, the average bid duration across all projects is ﻿374,88﻿ days, with ﻿Expansion﻿  taking the longest time to procure and initiate on average. 
+
+Finally, analyzing the unit cost by main work component and UOM reveals that ﻿Landscaping﻿ has the highest cost per unit, while ﻿Road Construction﻿ is the most cost-efficient. These benchmarks are critical for future cost planning and contract evaluation.
